@@ -1,3 +1,14 @@
+/*
+ * @Author: Ashington ashington258@proton.me
+ * @Date: 2024-05-28 10:55:37
+ * @LastEditors: Ashington ashington258@proton.me
+ * @LastEditTime: 2024-06-04 23:18:06
+ * @FilePath: \VOFA\C_API\vofa_protocol\vofa_protocol.c
+ * @Description: 请填写简介
+ * 联系方式:921488837@qq.com
+ * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved.
+ */
+
 #include "vofa_protocol.h"
 #include <stdlib.h>
 #include <string.h>
